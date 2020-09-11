@@ -19,7 +19,7 @@ You can add custom textMate Rules.
 
 1. Open [Scope Inspector](https://code.visualstudio.com/api/language-extensions/syntax-highlight-guide#scope-inspector).
 2. Copy the `scope`.
-3. Make your configuration like this: [todo]
+3. Make your configuration like [this](https://github.com/ZanKur0/gruber-darker-theme/blob/5ca345c9a029a5ff1fb34f3c6f9275216b502743/settings.json#L71)
 
 # Screenshot #
 
