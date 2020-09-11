@@ -11,10 +11,13 @@ Adaptation to Visual Studio Code by Alex a.k.a Zankur0
 # Note #
 
 This maybe look different to the original gruber darker by rexim. I did my own approach. Feel free to modify it.
+This **only** works in the lenguages what syntax-highlighter can support.
 
 # Screenshot #
 
-![gruber-darker-theme](http://i.imgur.com/8dY71hX.png)
+![gruber-darker-theme](https://imgur.com/a/2cps4ta)
+
+I can't find a proper way to change the `this`. If you know how to do it open a pull request.
 
 # Installation #
 
