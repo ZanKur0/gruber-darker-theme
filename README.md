@@ -13,12 +13,22 @@ Adaptation to Visual Studio Code by Alex a.k.a Zankur0
 This maybe look different to the original gruber darker by rexim. I did my own approach. Feel free to modify it.
 This **only** works in the lenguages what syntax-highlighter can support.
 
+# Customization #
+
+You can add custom textMate Rules.
+
+1. Open [Scope Inspector](https://code.visualstudio.com/api/language-extensions/syntax-highlight-guide#scope-inspector).
+2. Copy the `scope`.
+3. Make your configuration like this: [todo]
+
 # Screenshot #
 
-![gruber-darker-theme](https://i.imgur.com/cMiFUFr.png)
+<details>
+  <summary>Screenshot</summary>
 
-I can't find a proper way to change the `this`. If you know how to do it open a pull request.
+![gruber-darker-theme](https://i.imgur.com/x8ewvgp.png)
 
+</details>
 # Installation #
 
 1. Install [syntax-highlighter](https://marketplace.visualstudio.com/items?itemName=evgeniypeshkov.syntax-highlighter).
