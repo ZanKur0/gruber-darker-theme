@@ -29,6 +29,7 @@ You can add custom textMate Rules.
 ![gruber-darker-theme](https://i.imgur.com/x8ewvgp.png)
 
 </details>
+
 # Installation #
 
 1. Install [syntax-highlighter](https://marketplace.visualstudio.com/items?itemName=evgeniypeshkov.syntax-highlighter).
