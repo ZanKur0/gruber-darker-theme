@@ -48,7 +48,7 @@
             "syntax.type": "#95a99f",
             "syntax.scope": "#95a99f",
             "syntax.function": "#96a6c8",
-            "syntax.variable": "#ffdd33",
+            "syntax.variable": "#f4f4ff", //"syntax.variable": "#ffdd33", <- Variables in yellow
             "syntax.number": "#73c936",
             "syntax.string": "#73c936",
             "syntax.comment": "#73c936",
